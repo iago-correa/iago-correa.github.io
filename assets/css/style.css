@@ -1,4 +1,14 @@
 ---
 ---
 
+a {
+  color:#ed2d2d;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#c21d1d;
+  font-weight: bold;
+}
+
 @import "{{ site.theme }}";
