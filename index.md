@@ -1,5 +1,5 @@
 ---
-layout: default_ptbr
+layout: default
 ---
 
 # Iago Lourenço Corrêa
