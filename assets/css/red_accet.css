@@ -7,5 +7,3 @@ a:hover, a:focus {
     color:#c21d1d;
     font-weight: bold;
   }
-
-@import "{{ site.theme }}"
