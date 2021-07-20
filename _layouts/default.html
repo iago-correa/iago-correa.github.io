@@ -15,6 +15,9 @@
   <body>
     <div class="wrapper">
       <header>
+
+        {% if site.lang %}
+
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -23,7 +26,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view">Contact email:<a href="iago.lourenco.correa@gmail.com">iago.lourenco.correa@gmail.com</a></p>
+        <p lang="en-US"  class="view">This paragraph is defined as British English.</p>
+
+        <p lang="fr" class="view">Ce paragraphe est défini en français.</p>
+
+        <p class="view">Contact email: <a href="iago.lourenco.correa@gmail.com">iago.lourenco.correa@gmail.com</a></p>
 
         <p class="view">Links: </p>
 
