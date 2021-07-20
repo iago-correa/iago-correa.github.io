@@ -29,10 +29,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.lang == "en-US" %}
+        {% if userLang == "en-US" %}
         <p class="view">This paragraph is defined as British English.</p>
         {% endif %}
-        {% if site.lang == "fr" %}
+        {% if userLang == "fr" %}
         <p lang="fr" class="view">Ce paragraphe est défini en français.</p>
         {% endif %}
 
