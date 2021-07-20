@@ -18,11 +18,11 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 ### Local Events
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS (FURG - 17th MPU). [[pdf]](https://drive.google.com/file/d/1XcQU_3gc94EWH_-vswAqVwAvpx_vnq4o/view?usp=sharing)
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS (FURG - 17th MPU). [ [pdf](https://drive.google.com/file/d/1XcQU_3gc94EWH_-vswAqVwAvpx_vnq4o/view?usp=sharing)  ]
 
-1. I.  Corrêa,  P.  Drews, and M.  S.  d.  Souza, CLASSIFICAÇÃO DE MICROALGAS ATRAVÉS DE APRENDIZADO PROFUNDO. (FURG - 16th MPU). [[pdf]](https://drive.google.com/file/d/1xjfgwv5C111FkLs6IydFToRNi5LTZdhz/view?usp=sharing)
+1. I.  Corrêa,  P.  Drews, and M.  S.  d.  Souza, CLASSIFICAÇÃO DE MICROALGAS ATRAVÉS DE APRENDIZADO PROFUNDO. (FURG - 16th MPU).[ [pdf](https://drive.google.com/file/d/1xjfgwv5C111FkLs6IydFToRNi5LTZdhz/view?usp=sharing) ]
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO. (FURG - 15th MPU). [[pdf]](https://drive.google.com/file/d/1KH_f8iuETra73Ul-bYDYHeWlFVXvTXTx/view?usp=sharing)
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO. (FURG - 15th MPU). [ [pdf](https://drive.google.com/file/d/1KH_f8iuETra73Ul-bYDYHeWlFVXvTXTx/view?usp=sharing) ]
 
 ## Honor and Awards
 
