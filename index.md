@@ -2,8 +2,6 @@
 layout: default_eng
 ---
 
-# Iago Lourenço Corrêa
-
 I completed my Bachelor of Engineering in Automation at the Federal University of Rio Grande - FURG in 2021. During my graduation, I researched the automatic classification of microalgae through machine learning, especially with deep learning. My graduation project concerned the adoption of combination methods to improve OCR accuracy.
 
 ## Education
