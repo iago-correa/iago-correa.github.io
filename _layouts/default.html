@@ -5,11 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script>
-      var userLang = navigator.language || navigator.userLanguage; 
-      alert ("The language is: " + userLang);
-    </script>
-
 {% seo %}    
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url}}">
     <link rel="stylesheet" href="/assets/css/red_accent.css">
@@ -28,13 +23,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if userLang == "en-US" %}
-        <p class="view">This paragraph is defined as British English.</p>
-        {% endif %}
-        {% if userLang == "fr" %}
-        <p lang="fr" class="view">Ce paragraphe est défini en français.</p>
-        {% endif %}
 
         <p class="view">Contact email:<br><a href="mailto:iago.lourenco.correa@gmail.com">iago.lourenco.correa@gmail.com</a></p>
 
