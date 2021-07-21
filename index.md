@@ -31,7 +31,7 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO](https://drive.google.com/file/d/1KH_f8iuETra73Ul-bYDYHeWlFVXvTXTx/view?usp=sharing) (FURG 15th MPU).
 
-## Honor and Awards
+## Awards and Grants
 
 &emsp; **2019:** Globalink Research Internship Scholarship awarded by [Mitacs](https://www.mitacs.ca/en).
 
