@@ -42,7 +42,7 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 &emsp; **2020:** Participated in the ToT - Digital Verification of Databooks Project at the Federal University of Rio Grande, Brazil.
 
-&emsp; **2019:** Research Intern at the University of Québec in Chicoutimi, Canada.
+&emsp; **2019:** Research Intern at the Université du Québec à Chicoutimi, Canada.
 
 &emsp; **2016 - 2019:** Grantee in the research program from the Research Support Foundation of Rio Grande do  sul - FAPERGS at the Federal University of Rio Grande, Brazil.
 
