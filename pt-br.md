@@ -14,22 +14,23 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 ### Conferências Internacionais
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [Deep Learning for Microalgae Classification](https://www.researchgate.net/publication/320552381_Deep_Learning_for_Microalgae_Classification) (ICMLA 2017).
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [Deep Learning for Microalgae Classification](https://www.researchgate.net/publication/320552381_Deep_Learning_for_Microalgae_Classification) (ICMLA 2017).
+
+1. I.  Corrêa,  P.  Drews, e R. Rodrigues, [Combination of Optical Character Recognition Engines for Documents Containing Sparse Text and Alphanumeric Codes](https://ieeexplore.ieee.org/document/9643117/) (SIBGRAPI 2021)
 
 ### Conferências Nacionais
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [Aprendizado Profundo Aplicado na Classificação de Microalga](https://www.researchgate.net/publication/320552446_Aprendizado_Profundo_Aplicado_na_Classificacao_de_Microalgas) (ENIAC 2017).
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [Aprendizado Profundo Aplicado na Classificação de Microalga](https://www.researchgate.net/publication/320552446_Aprendizado_Profundo_Aplicado_na_Classificacao_de_Microalgas) (ENIAC 2017).
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [Supervised Microalgae Classification in Imbalanced Dataset](https://www.researchgate.net/publication/305766397_Supervised_Microalgae_Classification_in_Imbalanced_Dataset) (BRACIS 2016).
-
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [Supervised Microalgae Classification in Imbalanced Dataset](https://www.researchgate.net/publication/305766397_Supervised_Microalgae_Classification_in_Imbalanced_Dataset) (BRACIS 2016).
 
 ### Eventos Locais
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1XcQU_3gc94EWH_-vswAqVwAvpx_vnq4o/view?usp=sharing) (17ª MPU da Universidade Federal do Rio Grande).
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1XcQU_3gc94EWH_-vswAqVwAvpx_vnq4o/view?usp=sharing) (17ª MPU da Universidade Federal do Rio Grande).
 
-1. I.  Corrêa,  P.  Drews, and M.  S.  d.  Souza, [CLASSIFICAÇÃO DE MICROALGAS ATRAVÉS DE APRENDIZADO PROFUNDO](https://drive.google.com/file/d/1xjfgwv5C111FkLs6IydFToRNi5LTZdhz/view?usp=sharing) (16ª MPU da Universidade Federal do Rio Grande).
+1. I.  Corrêa,  P.  Drews, e M.  S.  d.  Souza, [CLASSIFICAÇÃO DE MICROALGAS ATRAVÉS DE APRENDIZADO PROFUNDO](https://drive.google.com/file/d/1xjfgwv5C111FkLs6IydFToRNi5LTZdhz/view?usp=sharing) (16ª MPU da Universidade Federal do Rio Grande).
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO](https://drive.google.com/file/d/1KH_f8iuETra73Ul-bYDYHeWlFVXvTXTx/view?usp=sharing) (15ª MPU da Universidade Federal do Rio Grande).
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO](https://drive.google.com/file/d/1KH_f8iuETra73Ul-bYDYHeWlFVXvTXTx/view?usp=sharing) (15ª MPU da Universidade Federal do Rio Grande).
 
 ## Prêmios e Bolsas
 
