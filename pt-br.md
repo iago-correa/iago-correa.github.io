@@ -14,7 +14,7 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 ### Conferências Internacionais
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [Deep Learning for Microalgae Classification](https://www.researchgate.net/publication/320552381_Deep_Learning_for_Microalgae_Classification) (ICMLA 2017).
+1. I.  Corrêa,  P.  Drews, S. S. C. Botelho, M.  S.  d.  Souza,  e  V.  M.  Tavano, [Deep Learning for Microalgae Classification](https://www.researchgate.net/publication/320552381_Deep_Learning_for_Microalgae_Classification) (ICMLA 2017).
 
 1. I.  Corrêa,  P.  Drews, e R. Rodrigues, [Combination of Optical Character Recognition Engines for Documents Containing Sparse Text and Alphanumeric Codes](https://ieeexplore.ieee.org/document/9643117/) (SIBGRAPI 2021). Apresentação disponível [aqui](https://youtu.be/1sdICg7bQno?t=590) (em inglês).
 
