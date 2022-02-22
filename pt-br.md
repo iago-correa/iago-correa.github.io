@@ -2,7 +2,7 @@
 layout: default_ptbr
 ---
 
-I completed my Bachelor of Engineering in Automation at the Federal University of Rio Grande - FURG in 2021. During my graduation, I researched the automatic classification of microalgae through machine learning, especially with deep learning. My graduation project concerned the adoption of combination methods to improve OCR accuracy.
+Eu completei meu Bacharelado em Engenharia de Automação na Universidade Federal do Rio Grande - FURG em 2021. Durante a graduação eu trabalhei com a pesquisa sobre a classificação de microalgas através de aprendizado de máquina, especialmente através de aprendizado profundo. Meu projeto de graduação tratou da adoção de métodos de combinação para melhorar a acurácia no reconhecimento de caracteres.
 
 ## Educação
 
