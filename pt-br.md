@@ -36,7 +36,7 @@ Eu completei meu Bacharelado em Engenharia de Automação na Universidade Federa
 
 &emsp; **2019:** Bolsa de Estágio em Pesquisa Globalink concedida pela [Mitacs](https://www.mitacs.ca/en).
 
-&emsp; **2018:** Prêmio Destaque pela apresentação do trabalho [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/172fMX7jhWR9OnhOKlawLaMs4jIjRDVie/view?usp=sharing) na 17ª MPU da Universidade Federal do Rio Grande.
+&emsp; **2018:** Prêmio Destaque pela apresentação do trabalho [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1Vx6TsalWjp16C3dta-MUxu70F-vcxNpa/view?usp=sharing) na 17ª MPU da Universidade Federal do Rio Grande.
 
 
 ## Experiência
