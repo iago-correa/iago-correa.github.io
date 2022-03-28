@@ -36,7 +36,7 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 &emsp; **2019:** Globalink Research Internship Scholarship awarded by [Mitacs](https://www.mitacs.ca/en).
 
-&emsp; **2018:** Outstanding Work Presentation entitled [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/172fMX7jhWR9OnhOKlawLaMs4jIjRDVie/view?usp=sharing) (in Portuguese) at FURG 17th Universitary Production Display (MPU).
+&emsp; **2018:** Outstanding Work Presentation entitled [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1Vx6TsalWjp16C3dta-MUxu70F-vcxNpa/view?usp=sharing) (in Portuguese) at FURG 17th Universitary Production Display (MPU).
 
 
 ## Work Experience
