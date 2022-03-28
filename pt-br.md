@@ -26,17 +26,17 @@ Eu completei meu Bacharelado em Engenharia de Automação na Universidade Federa
 
 ### Eventos Locais
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1XcQU_3gc94EWH_-vswAqVwAvpx_vnq4o/view?usp=sharing) (17ª MPU da Universidade Federal do Rio Grande).
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1BuYdN9a6C9ycQ71YBdG9ZMKoDaXGfA2r/view?usp=sharing) (17ª MPU da Universidade Federal do Rio Grande).
 
-1. I.  Corrêa,  P.  Drews, e M.  S.  d.  Souza, [CLASSIFICAÇÃO DE MICROALGAS ATRAVÉS DE APRENDIZADO PROFUNDO](https://drive.google.com/file/d/1xjfgwv5C111FkLs6IydFToRNi5LTZdhz/view?usp=sharing) (16ª MPU da Universidade Federal do Rio Grande).
+1. I.  Corrêa,  P.  Drews, e M.  S.  d.  Souza, [CLASSIFICAÇÃO DE MICROALGAS ATRAVÉS DE APRENDIZADO PROFUNDO](https://drive.google.com/file/d/1y1wszGs9GJ8eXd4e3jUP43t6lVrKZXmW/view?usp=sharing) (16ª MPU da Universidade Federal do Rio Grande).
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO](https://drive.google.com/file/d/1KH_f8iuETra73Ul-bYDYHeWlFVXvTXTx/view?usp=sharing) (15ª MPU da Universidade Federal do Rio Grande).
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO](https://drive.google.com/file/d/1kZBecahAyPMPfFUtJRguYMNtEFKSHaAn/view?usp=sharing) (15ª MPU da Universidade Federal do Rio Grande).
 
 ## Prêmios e Bolsas
 
 &emsp; **2019:** Bolsa de Estágio em Pesquisa Globalink concedida pela [Mitacs](https://www.mitacs.ca/en).
 
-&emsp; **2018:** Prêmio Destaque pela apresentação do trabalho [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1t07_QdLK6FUvyge-rShWlEWu8P3jVAd9/view?usp=sharing) na 15ª MPU da Universidade Federal do Rio Grande.
+&emsp; **2018:** Prêmio Destaque pela apresentação do trabalho [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/172fMX7jhWR9OnhOKlawLaMs4jIjRDVie/view?usp=sharing) na 17ª MPU da Universidade Federal do Rio Grande.
 
 
 ## Experiência
