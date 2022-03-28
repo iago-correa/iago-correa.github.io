@@ -26,17 +26,17 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 ### Local Events
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1XcQU_3gc94EWH_-vswAqVwAvpx_vnq4o/view?usp=sharing) (FURG 17th MPU).
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1BuYdN9a6C9ycQ71YBdG9ZMKoDaXGfA2r/view?usp=sharing) (FURG 17th MPU).
 
-1. I.  Corrêa,  P.  Drews, and M.  S.  d.  Souza, [CLASSIFICAÇÃO DE MICROALGAS ATRAVÉS DE APRENDIZADO PROFUNDO](https://drive.google.com/file/d/1xjfgwv5C111FkLs6IydFToRNi5LTZdhz/view?usp=sharing) (FURG 16th MPU).
+1. I.  Corrêa,  P.  Drews, and M.  S.  d.  Souza, [CLASSIFICAÇÃO DE MICROALGAS ATRAVÉS DE APRENDIZADO PROFUNDO](https://drive.google.com/file/d/1y1wszGs9GJ8eXd4e3jUP43t6lVrKZXmW/view?usp=sharing) (FURG 16th MPU).
 
-1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO](https://drive.google.com/file/d/1KH_f8iuETra73Ul-bYDYHeWlFVXvTXTx/view?usp=sharing) (FURG 15th MPU).
+1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [CLASSIFICAÇÃO SUPERVISADA DE MICROALGAS EM UM BANCO DE DADOS DESBALANCEADO](https://drive.google.com/file/d/1kZBecahAyPMPfFUtJRguYMNtEFKSHaAn/view?usp=sharing) (FURG 15th MPU).
 
 ## Awards and Grants
 
 &emsp; **2019:** Globalink Research Internship Scholarship awarded by [Mitacs](https://www.mitacs.ca/en).
 
-&emsp; **2018:** Outstanding Work Presentation entitled [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1t07_QdLK6FUvyge-rShWlEWu8P3jVAd9/view?usp=sharing) (in Portuguese) at FURG 15th Universitary Production Display (MPU).
+&emsp; **2018:** Outstanding Work Presentation entitled [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/172fMX7jhWR9OnhOKlawLaMs4jIjRDVie/view?usp=sharing) (in Portuguese) at FURG 17th Universitary Production Display (MPU).
 
 
 ## Work Experience
