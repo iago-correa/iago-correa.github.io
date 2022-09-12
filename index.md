@@ -6,6 +6,8 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 ## Education
 
+&emsp; **2022:** Master's Degree in Computer Science. [Nagoya Institute of Technology](https://www.nitech.ac.jp), Japan. Graduate School of Engineering.
+
 &emsp; **2015 - 2021:** Bachelor of Engineering. [Federal University of Rio Grande](https://www.furg.br/en/), Brazil. Computer Science Center.
 
 &emsp; **2011 - 2014:** Technical in Informatics. [Federal Institute of Education, Science and Technology of Rio Grande do Sul](https://ifrs.edu.br/riogrande/), Brazil.
