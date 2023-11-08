@@ -20,13 +20,15 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 1. I.  Corrêa,  P.  Drews, and R. Rodrigues, [Combination of Optical Character Recognition Engines for Documents Containing Sparse Text and Alphanumeric Codes](https://ieeexplore.ieee.org/document/9643117/) (SIBGRAPI 2021). Presentation available [here](https://youtu.be/1sdICg7bQno?t=590).
 
+1. I. Corrêa, S. Ueno, and A. Lee, Accent-Preserving Voice Conversion between Native-Nonnative Speakers for Second Language Learning (APSIPA 2023).
+
 ### National Conferences
 
 1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [Aprendizado Profundo Aplicado na Classificação de Microalga](https://www.researchgate.net/publication/320552446_Aprendizado_Profundo_Aplicado_na_Classificacao_de_Microalgas) (ENIAC 2017).
 
 1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [Supervised Microalgae Classification in Imbalanced Dataset](https://www.researchgate.net/publication/305766397_Supervised_Microalgae_Classification_in_Imbalanced_Dataset) (BRACIS 2016).
 
-### Local Events
+### Local Conferences
 
 1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  and  V.  M.  Tavano, [CLASSIFICAÇÃO SEMI-SUPERVISIONADA DE MICROALGAS ATRAVÉS DE MODELOS GERADORES ADVERSÁRIOS](https://drive.google.com/file/d/1BuYdN9a6C9ycQ71YBdG9ZMKoDaXGfA2r/view?usp=sharing) (FURG 17th MPU).
 
