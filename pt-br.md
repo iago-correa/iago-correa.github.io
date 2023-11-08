@@ -20,6 +20,8 @@ Eu completei meu Bacharelado em Engenharia de Automação na Universidade Federa
 
 1. I.  Corrêa,  P.  Drews, e R. Rodrigues, [Combination of Optical Character Recognition Engines for Documents Containing Sparse Text and Alphanumeric Codes](https://ieeexplore.ieee.org/document/9643117/) (SIBGRAPI 2021). Apresentação disponível [aqui](https://youtu.be/1sdICg7bQno?t=590) (em inglês).
 
+1. I. Corrêa, S. Ueno, and A. Lee, Accent-Preserving Voice Conversion between Native-Nonnative Speakers for Second Language Learning (APSIPA 2023).
+
 ### Conferências Nacionais
 
 1. I.  Corrêa,  P.  Drews,  M.  S.  d.  Souza,  e  V.  M.  Tavano, [Aprendizado Profundo Aplicado na Classificação de Microalga](https://www.researchgate.net/publication/320552446_Aprendizado_Profundo_Aplicado_na_Classificacao_de_Microalgas) (ENIAC 2017).
