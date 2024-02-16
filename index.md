@@ -16,7 +16,7 @@ I completed my Bachelor of Engineering in Automation at the Federal University o
 
 ### International Conferences
 
-1. I. Corrêa, S. Ueno, and A. Lee, [Accent-Preserving Voice Conversion between Native-Nonnative Speakers for Second Language Learning] (https://ieeexplore.ieee.org/document/10317245) (APSIPA 2023).
+1. I. Corrêa, S. Ueno, and A. Lee, [Accent-Preserving Voice Conversion between Native-Nonnative Speakers for Second Language Learning](https://ieeexplore.ieee.org/document/10317245) (APSIPA 2023).
 
 1. I.  Corrêa,  P.  Drews, and R. Rodrigues, [Combination of Optical Character Recognition Engines for Documents Containing Sparse Text and Alphanumeric Codes](https://ieeexplore.ieee.org/document/9643117/) (SIBGRAPI 2021). Presentation available [here](https://youtu.be/1sdICg7bQno?t=590).
 
