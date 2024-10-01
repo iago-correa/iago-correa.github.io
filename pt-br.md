@@ -6,7 +6,9 @@ Eu completei meu Bacharelado em Engenharia de Automação na Universidade Federa
 
 ## Educação
 
-&emsp; **2022:** Mestrado em Ciência da Computação. [Instituto de Tecnologia de Nagoya](https://www.nitech.ac.jp), Japão. 
+&emsp; **2024:** Doutorado em Ciência da Computação. [Instituto de Tecnologia de Nagoya](https://www.nitech.ac.jp), Japão. 
+
+&emsp; **2022 - 2024:** Mestrado em Ciência da Computação. [Instituto de Tecnologia de Nagoya](https://www.nitech.ac.jp), Japão. 
 
 &emsp; **2015 - 2021:** Bacharel em Engenharia de Automação. [Universidade Federal do Rio Grande](https://www.furg.br/en/), Brasil. 
 
