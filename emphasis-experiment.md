@@ -28,7 +28,7 @@ Shaving cream is a popular item on Halloween.
 **Sample 2: Original Learner Speech**
 Shaving cream is a popular item on Halloween.
 <audio controls>
-  <source src="/assets/audio/recording_NAG_M04_S6_017.wav" type="audio/wav">
+  <source src="/assets/audio/recording_NAG_M04_S6_004.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
