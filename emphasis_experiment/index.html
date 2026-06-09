@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golden Speaker Demo</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body { 
+            padding: 20px; 
+        }
+        
+        audio {
+            width: 100%;
+            height: 30px; 
+            margin-bottom: 5px;
+            display: block; 
+        }
+
+        th {
+            background-color: #e9ecef;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        tbody th {
+            font-weight: normal; 
+            text-align: center; 
+            vertical-align: top;
+        }
+
+        td {
+            vertical-align: middle;
+            min-width: 200px;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <h2 class="mb-4 text-center">Evaluating Self-Imitation Pronunciation Practice with Zero-Shot TTS-Generated Golden Speaker among Japanese EFL Learners</h2>
+    
+    <p>Demonstration of CosyVoice 2 golden speaker synthesis with Japanese speakers.</p>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover bg-white shadow-sm">
+            <thead class="table-light">
+                <tr>
+                    <th style="width: 5%">Sentence</th>
+                    <th>Speaker 1</th>
+                    <th>Speaker 2</th>
+                    <th>Speaker 3</th>
+                    <th>Speaker 4</th>
+                    <th>Speaker 5</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                 <tr>
+                    <th>
+                        <p>Reference speech used for synthesis</p>
+                        <p>Shaving cream is a popular item on Halloween.</p>
+                    </th>
+                    <td>
+                        <audio controls src="/assets/audio/recording_NAG_F02_S6_004.wav"></audio>
+                    </td>
+                    <td>
+                        <audio controls src="/assets/audio/recording_NAG_M04_S6_004.wav"></audio>
+                    </td>
+                    <td>
+                        <audio controls src="speech/speaker03/processed_rec/sentence_0.wav"></audio>
+                    </td>
+                    <td>
+                        <audio controls src="speech/speaker04/processed_rec/sentence_0.wav"></audio>
+                    </td>
+                    <td>
+                        <audio controls src="speech/speaker05/processed_rec/sentence_0.wav"></audio>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th scope="row">By extending our abilities any tool whether it is a stone or a supercomputer can improve our lives.</th>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker01/processed_rec/sentence_2.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker01/gs/sentence_0/sentence_2.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker02/processed_rec/sentence_2.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker02/gs/sentence_0/sentence_2.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker03/processed_rec/sentence_2.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker03/gs/sentence_0/sentence_2.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker04/processed_rec/sentence_2.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker04/gs/sentence_0/sentence_2.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker05/processed_rec/sentence_2.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker05/gs/sentence_0/sentence_2.wav"></audio>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th scope="row">Shaving cream is a popular item on Halloween.</th>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="/assets/audio/recording_NAG_F02_S6_004.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="/assets/audio/recording_NAG_F02_S6_004.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="/assets/audio/recording_NAG_M04_S6_004.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="/assets/audio/recording_NAG_M04_S6_004.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker03/processed_rec/sentence_3.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker03/gs/sentence_0/sentence_3.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker04/processed_rec/sentence_3.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker04/gs/sentence_0/sentence_3.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker05/processed_rec/sentence_3.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker05/gs/sentence_0/sentence_3.wav"></audio>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th scope="row">Do you prefer online or face-to-face communication?</th>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker01/processed_rec/sentence_4.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker01/gs/sentence_0/sentence_4.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker02/processed_rec/sentence_4.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker02/gs/sentence_0/sentence_4.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker03/processed_rec/sentence_4.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker03/gs/sentence_0/sentence_4.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker04/processed_rec/sentence_4.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker04/gs/sentence_0/sentence_4.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker05/processed_rec/sentence_4.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker05/gs/sentence_0/sentence_4.wav"></audio>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th scope="row">These devices are unlikely to disappear anytime soon.</th>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker01/processed_rec/sentence_5.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker01/gs/sentence_0/sentence_5.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker02/processed_rec/sentence_5.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker02/gs/sentence_0/sentence_5.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker03/processed_rec/sentence_5.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker03/gs/sentence_0/sentence_5.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker04/processed_rec/sentence_5.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker04/gs/sentence_0/sentence_5.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker05/processed_rec/sentence_5.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker05/gs/sentence_0/sentence_5.wav"></audio>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th scope="row">As more people use social media for communication this trend is likely to continue.</th>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker01/processed_rec/sentence_6.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker01/gs/sentence_0/sentence_6.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker02/processed_rec/sentence_6.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker02/gs/sentence_0/sentence_6.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker03/processed_rec/sentence_6.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker03/gs/sentence_0/sentence_6.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker04/processed_rec/sentence_6.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker04/gs/sentence_0/sentence_6.wav"></audio>
+                    </td>
+                    <td>
+                        <small class="text-muted">Recording</small>
+                        <audio controls src="speech/speaker05/processed_rec/sentence_6.wav"></audio>
+                        <small class="text-muted">Synthesized speech</small>
+                        <audio controls src="speech/speaker05/gs/sentence_0/sentence_6.wav"></audio>
+                    </td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+</body>
+</html>
