@@ -13,8 +13,8 @@
         }
         
         .play-btn {
-            width: 40px;
-            height: 40px;
+            width: 44px; /* Increased for better touch target */
+            height: 44px; /* Increased for better touch target */
             border-radius: 50%;
             display: inline-flex;
             align-items: center;
@@ -75,7 +75,55 @@
             font-weight: bold;
         }
 
+        @media (max-width: 768px) {
+            .table-responsive { border: none; }
+            table, thead, tbody, th, td, tr { display: block; }
+            thead tr { display: none; }
+            
+            tbody tr:not(.section-header) {
+                margin-bottom: 1.5rem;
+                border: 1px solid #dee2e6;
+                border-radius: 0.5rem;
+                box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+                overflow: hidden;
+            }
+            
+            tbody th {
+                text-align: left;
+                background-color: #f8f9fa;
+                border-bottom: 1px solid #dee2e6;
+                padding: 1rem;
+            }
 
+            tbody td:not(.section-header-td) {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border: none;
+                border-bottom: 1px solid #f1f3f5;
+                padding: 0.75rem 1rem;
+                min-width: auto;
+            }
+            
+            tbody td:last-child { border-bottom: none; }
+
+            tbody td:not(.section-header-td)::before {
+                content: attr(data-label);
+                font-weight: 600;
+                color: #495057;
+            }
+
+            .section-header td {
+                display: block;
+                text-align: center;
+                font-weight: bold;
+                background: transparent;
+                border: none;
+                color: #6c757d;
+                padding: 1.5rem 0 0.5rem 0;
+                font-size: 1.1rem;
+            }
+        }
     </style>
 
 </head>
@@ -103,31 +151,31 @@
             </thead>
             <tbody>
 
-                <tr><td colspan="5">Reference voice used for synthesis</td></tr>
+                <tr class="section-header"><td colspan="5" class="section-header-td">Reference voice used for synthesis</td></tr>
 
                 <tr>
                     <th>
                         <p>One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen. There are fifteen.</p>
                     </th>
-                    <td>
+                    <td data-label="Speaker 1">
                         <audio src="/assets/audio/references/JE_HIR_F08_S4_090.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 2">
                         <audio src="/assets/audio/references/JE_KYO_M04_S4_090.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 3">
                         <audio src="/assets/audio/references/JE_NAR_F04_S2_090.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 4">
                         <audio src="/assets/audio/references/JE_NAR_M06_S4_090.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
@@ -135,31 +183,31 @@
                     </td>
                 </tr>
 
-                <tr><td colspan="5">Neutral synthesis: no explicit instruction for emphasis</td></tr>
+                <tr class="section-header"><td colspan="5" class="section-header-td">Neutral synthesis: no explicit instruction for emphasis</td></tr>
 
                 <tr>
                     <th>
                         <p>I did not steal this car.</p>
                     </th>
-                    <td>
+                    <td data-label="Speaker 1">
                         <audio src="/assets/audio/HIR_F08/s06_neutral_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 2">
                         <audio src="/assets/audio/KYO_M04/s06_neutral_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 3">
                         <audio src="/assets/audio/NAR_F04/s06_neutral_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 4">
                         <audio src="/assets/audio/NAR_M06/s06_neutral_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
@@ -169,25 +217,25 @@
 
                 <tr>
                     <th scope="row"><span class="highlight-letter">I</span> did not steal this car.</th>
-                    <td>
+                    <td data-label="Speaker 1">
                         <audio src="/assets/audio/HIR_F08/s06_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 2">
                         <audio src="/assets/audio/KYO_M04/s06_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 3">
                         <audio src="/assets/audio/NAR_F04/s06_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 4">
                         <audio src="/assets/audio/NAR_M06/s06_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
@@ -197,25 +245,25 @@
 
                 <tr>
                     <th scope="row">I did not <span class="highlight-letter">steal</span> this car.</th>
-                    <td>
+                    <td data-label="Speaker 1">
                         <audio src="/assets/audio/HIR_F08/s07_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 2">
                         <audio src="/assets/audio/KYO_M04/s07_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 3">
                         <audio src="/assets/audio/NAR_F04/s07_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 4">
                         <audio src="/assets/audio/NAR_M06/s07_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
@@ -225,25 +273,25 @@
 
                 <tr>
                     <th scope="row">I did not steal <span class="highlight-letter">this</span> car.</th>
-                    <td>
+                    <td data-label="Speaker 1">
                         <audio src="/assets/audio/HIR_F08/s08_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 2">
                         <audio src="/assets/audio/KYO_M04/s08_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 3">
                         <audio src="/assets/audio/NAR_F04/s08_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
                         </button>
                     </td>
-                    <td>
+                    <td data-label="Speaker 4">
                         <audio src="/assets/audio/NAR_M06/s08_strong_0.wav"></audio>
                         <button class="btn btn-outline-primary play-btn">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
